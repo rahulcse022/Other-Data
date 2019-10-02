@@ -1,0 +1,124 @@
+### eLitmus Exam Pattern – Quantitative Aptitude
+Number System
+Geometry
+Probability
+Algebra
+Permutation and Combination
+Ratio and Proportions
+Speed
+Time and Distance
+Time and Work
+AP GP and HP( Newly Introduced in elitmus syllabus 2019)
+
+
+###### eLitmus Syllabus 2019 Logical Reasoning:-
+Tip: Visit the below links later, first go through the whole page for Information
+
+Logical Reasoning Type 1
+Logical Reasoning Type 2
+Cryptarithmetic
+Data Interpretation (Bar charts)
+Data Interpretation (Pie charts)
+Data Sufficiency Algebra & Arithmetic
+Data Sufficiency Geometry, Logic and Misc
+Data Interpretation(Line Graphs) (Newly Introduced)
+
+
+
+##### eLitmus Syllabus for 2019 – Verbal English
+Reading Comprehension
+Grammatical Errors based Questions
+Para Jumbles
+Sentence Completion – Subject Verb(Newly Introduced in elitmus syllabus 2018)
+Sentence Completion – Vocabulary
+Sentence Completion – Tenses (Newly Introduced in elitmus syllabus 2018)
+
+
+
+Languages(C, C++ code snippets)
+Operating Systems
+Database (Oracle, MySQL)
+OOPS
+Networking
+DSA
+
+
+
+
+
+_______________________ Wipor _____________________________
+
+
+Wipro Quantitative Syllabus 2019 (Updated)
+Basic Mathematics
+LCM & HCF
+Divisibility
+Numbers, decimal fractions and power
+Time & Work
+Pipes and Cisterns
+Averages
+Profit and Loss
+Applied Mathematics
+Simple and Compound Interest
+Time, Speed and Distance
+Inverse
+Problems on Trains
+Geometry, Coordinate Geometry
+Clocks & Calendar
+Logarithms
+Engineering Mathematics
+Permutation and Combinations
+Probability
+Ratio & Proportion
+Algebra
+Surds & Indices
+Allegations and Mixtures
+Problem on Ages
+ 
+
+
+Wipro English Syllabus 2019 (Updated)
+Vocabulary
+Synonyms
+Antonyms
+Jumbled Sentence
+Grammar
+Sentence Formation
+Inferential and Literal Comprehension
+Contextual Vocabulary
+Comprehension ordering
+Reading Comprehension
+Error Identification
+Sentence Improvement & Construction
+Subject-Verb Agreement
+Tenses & Articles
+Preposition & Conjunctions
+
+
+
+Wipro Logical Syllabus 2019 (Updated)
+Deductive Reasoning
+Coding deductive logic
+Blood Relation
+Directional Sense
+Objective Reasoning
+Selection decision tables
+Inductive reasoning
+Odd Man Out
+Statement & Conclusion
+Analogy and Classification recognition
+Coding and Number series recognition
+Seating Arrangements
+Abductive Reasoning
+Mathematical Orders
+Inferred Meaning
+Logical word sequence
+Data sufficiency
+Syllogism
+Data Arrangement
+
+
+two coding questions 
+
+
+one communication writing
